@@ -13,4 +13,5 @@ Create the following workspace to hold all Github projects.
 mkdir ~/workspace
 mkdir -R ~/workspace/personal
 mkdir -R ~/workspace/scripts
+mkdir -R ~/workspace/setup
 ```

@@ -5,13 +5,23 @@ weight: 7
 summary: "Configure your terminal and themeing."
 ---
 
-### Reminders & Notifications for Code Review using Github Notifications
+# Health Hacks
 
-Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device using [Trailer](http://ptsochantaris.github.io/trailer/)
+### Task Reminders
 
-### Reducing eye strain and screen jar
+No one wants to see your personal breakdown of goals or tasks on a shared system, and postits and written notes can be lost and fail ultimately at providing reminders that tasks need completed.
+
+To manage task reminders, I use [Todoist](https://todoist.com/app) for everything; work, personal, shopping, etc. It works for reminding you about everything that needs done and helps you prioritise how much you can feasible complete in any given day.
+
+### Reducing Eye Strain
 
 During the day, computer screens look good—they're designed to look like the sun. But, at 9PM, 10PM, or 3AM, you probably shouldn't be looking at the sun. Install [Flux](https://justgetflux.com/) to help manage your screen brightness for you.
+
+# Productivity
+
+### Code Review Reminders & Notifications
+
+Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device using [Trailer](http://ptsochantaris.github.io/trailer/)
 
 ### Improving spelling and grammar using Grammarly
 
@@ -24,5 +34,3 @@ During the day, computer screens look good—they're designed to look like the s
 ### Formatting HTML, Markdown, JavaScript
 
 [Prettier](https://prettier.io/playground) is an opinionated code formatter that supports many languages, integrates with most editors, and has few options. The online playground allows for files to quickly and easily be formatted using a variety of supported formats.
-
-
