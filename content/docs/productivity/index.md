@@ -1,11 +1,9 @@
 ---
-title: "Productivity Tools"
+title: "Productivity"
 date: 2019-02-11T19:27:37+10:00
 weight: 7
 summary: "Configure your terminal and themeing."
 ---
-
-# Health Hacks
 
 ### Task Reminders
 
@@ -17,13 +15,11 @@ To manage task reminders, I use [Todoist](https://todoist.com/app) for everythin
 
 During the day, computer screens look good—they're designed to look like the sun. But, at 9PM, 10PM, or 3AM, you probably shouldn't be looking at the sun. Install [Flux](https://justgetflux.com/) to help manage your screen brightness for you.
 
-# Productivity
-
 ### Code Review Reminders & Notifications
 
 Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device using [Trailer](http://ptsochantaris.github.io/trailer/)
 
-### Improving spelling and grammar using Grammarly
+### Proof Checking
 
 [Grammarly](https://www.grammarly.com) allows you to compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant. It's fantastic for providing an automated proof read of documents before submitting a refresh for change by human eyes.
 
